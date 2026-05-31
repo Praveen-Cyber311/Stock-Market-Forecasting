@@ -285,20 +285,6 @@ This application implements the proposed hybrid framework that bridges time-seri
 
 This project is for educational and research purposes. Please ensure compliance with financial data usage policies.
 
-## 🙏 Acknowledgments
-
-- **FinBERT**: Financial sentiment analysis model
-- **PyTorch Geometric**: Graph neural network framework
-- **Yahoo Finance**: Stock data source
-- **Bootstrap**: UI framework
-- **Plotly**: Interactive visualizations
-
-## 📞 Support
-
-For issues or questions:
-1. Check the troubleshooting section
-2. Review the code documentation
-3. Create an issue with detailed description
 
 ---
 
